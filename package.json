@@ -1,0 +1,16 @@
+{
+  "name": "a2zfin-limit3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "requirejs": "^2.3.6",
+    "tslib": "^2.3.1",
+    "uniq": "^1.0.1"
+  }
+}
